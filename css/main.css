@@ -1,0 +1,9 @@
+	.degree_n {color: #010;}
+	.degree0 {color: #860; font-weight: bold;}
+	.degree1 {color: #b60; font-weight: bold;}
+	.degree2 {color: #c49; font-weight: bold;}
+	.degree3 {color: #f00; font-weight: bold;}
+	.even {background-color: #CFC;}
+	.uneven {background-color: #BFB;}
+	th {background-color: #5A5; color: white;}
+	td { vertical-align: top; padding: 3px; color: #111; font-size: 11pt;}
