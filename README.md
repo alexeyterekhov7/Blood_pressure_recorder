@@ -1,4 +1,4 @@
-# Blood_pressure_recorder_telegram
+# Blood Pressure Recorder (telegram version)
 Simple "Blood pressure recorder" using Teregram messages.
 
 Write in a private message to Bot 120/80-90 (Up pressure/down pressure/pulse)
